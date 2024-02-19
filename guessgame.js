@@ -12,15 +12,15 @@
 
 
 
-///** 2nd way to guess no using if and else */
+/** 2nd way to guess no using if and else */
 
 
-// let num=33;
-// let n=prompt("enter a value: ")
+let num=33;
+let n=prompt("enter a value: ")
 
-// if(num!=n){
-//     let n=prompt("Again enter value: ")
-// }
-// else{
-//     console.log("congrtaulation you entered a right value")
-// }
+if(num!=n){
+    let n=prompt("Again enter value: ")
+}
+else{
+    console.log("congrtaulation you entered a right value")
+}
