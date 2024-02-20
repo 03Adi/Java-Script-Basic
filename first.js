@@ -1,4 +1,4 @@
-const product= {
+product= {
     name:"Ball Pen",
     reting:4.9,
     price:200,
